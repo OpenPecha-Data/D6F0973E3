@@ -63,69 +63,69 @@ annotations:
     reference: ''
     span:
       start: 9781
-      end: 11057
+      end: 11056
     note_ref: 6004740bf8a2449c80bd4bd3c430e789
   e3ab0bbc614346acae5bec0148140d9c:
     imgnum: 1317
     reference: ''
     span:
-      start: 11059
-      end: 12398
+      start: 11058
+      end: 12397
     note_ref: 6004740bf8a2449c80bd4bd3c430e789
   b0722719482c4d8dadfc405292c4a738:
     imgnum: 1318
     reference: ''
     span:
-      start: 12400
-      end: 13763
+      start: 12399
+      end: 13762
     note_ref: 6004740bf8a2449c80bd4bd3c430e789
   06ec21e6af384e11bd472cc48296d090:
     imgnum: 1319
     reference: ''
     span:
-      start: 13765
-      end: 15189
+      start: 13764
+      end: 15188
     note_ref: 6004740bf8a2449c80bd4bd3c430e789
   6c51e07a87f64d0ebffe09dd16a62c46:
     imgnum: 1320
     reference: ''
     span:
-      start: 15191
-      end: 16486
+      start: 15190
+      end: 16485
     note_ref: 6004740bf8a2449c80bd4bd3c430e789
   9615a17f01164a3a9138043ff1bc7954:
     imgnum: 1321
     reference: ''
     span:
-      start: 16488
-      end: 17801
+      start: 16487
+      end: 17800
     note_ref: 6004740bf8a2449c80bd4bd3c430e789
   d396325c51514c0bb9c6327664b4c9af:
     imgnum: 1322
     reference: ''
     span:
-      start: 17803
-      end: 19085
+      start: 17802
+      end: 19084
     note_ref: 6004740bf8a2449c80bd4bd3c430e789
   466afffa825547b2ac7fb2d46bb238d5:
     imgnum: 1323
     reference: ''
     span:
-      start: 19087
-      end: 20719
+      start: 19086
+      end: 20718
     note_ref: 83822358e3b94d14a9c00bd519a7a694
   6004740bf8a2449c80bd4bd3c430e789:
     imgnum: 1324
     reference: ''
     span:
-      start: 20721
-      end: 22813
+      start: 20720
+      end: 22812
   83822358e3b94d14a9c00bd519a7a694:
     imgnum: 1325
     reference: ''
     span:
-      start: 22815
-      end: 23042
+      start: 22814
+      end: 23041
 local_ids:
   edc17989bb704eb89737e08e5453fcdf: 200000
   eff3964c948841c4a30a37b675f1838a: 200001
